@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: <your-dockerhub-username>/flask-k8s-demo:latest
+          tags: abhisheksharma9731/flask-k8s-demo:latest
